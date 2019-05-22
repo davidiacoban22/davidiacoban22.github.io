@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-image:url(Portfolio%20Assests/Website-Background5.png);
+}
+
+.main {
+	text-align:center;
+	font-size:26px;
+	color:#0FF;
+}
+
+.right {
+	display:inline-block;
+	padding:0px;
+	margin:9px;
+	border: 5px solid aqua;
+}
+
+img:hover {
+	-webkit-transform:scale(1.5,1.5);
+	transform:scale(1.5,1.5);
+}

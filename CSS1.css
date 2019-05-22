@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.class {
+	font-size:20px;
+	color:#C60;
+	text-align:center;
+}
+
+.subheading {
+	font-size:26px;
+	text-align:center;
+	color:#F00;
+}
